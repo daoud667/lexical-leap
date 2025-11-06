@@ -1,0 +1,16 @@
+export const words = [
+  'SAFARI',
+  'KILIMANJARO',
+  'SWAHILI',
+  'SERENGETI',
+  'MASAI',
+  'VICTORIA',
+  'ZANZIBAR',
+  'JOLLOF',
+  'NOLLYWOOD',
+  'SANKOFA',
+  'UBUNTU',
+  'IMANI',
+  'HARAMBEE',
+  'UMOJA',
+];
